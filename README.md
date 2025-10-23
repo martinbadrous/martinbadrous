@@ -1,6 +1,6 @@
 # Hi, I'm Martin Badrous 👋
 
-Computer Vision Engineer | Deep Learning | Microfluidics & Single-Cell Image Analysis
+Computer Vision Engineer | Deep Learning | 
 
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-MartinBadrous-blue)](https://huggingface.co/martinbadrous)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MartinBadrous-blue)](https://www.linkedin.com/in/martinbadrous/)
