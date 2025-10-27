@@ -1,104 +1,95 @@
-# 👋 Hi, I'm Martin Badrous
+# 👋 Hi, I'm Martin Badrous  
 
-🎓 **Computer Vision & Deep Learning Engineer** | 🧠 AI Researcher | ⚙️ Robotics & Image Analysis Enthusiast  
-📍 Based in France | 🇪🇬 Egyptian origin  
+🎓 **Computer Vision & Deep Learning Engineer** | 🧠 **AI Researcher** | ⚙️ **Robotics & Image Analysis Enthusiast**  
+📍 Based in France | 🇪🇬 Egyptian Origin  
 📧 martin.badrous@gmail.com • 🔗 [LinkedIn](https://linkedin.com/in/martinbadrous) • 💻 [GitHub](https://github.com/martinbadrous) • 🤗 [HuggingFace](https://huggingface.co/martinbadrous)
 
 ---
 
-## 🧭 About Me
+## 🧭 About Me  
 
-I'm a **Computer Vision Engineer specialized in Deep Learning**, passionate about transforming raw image data into **meaningful, interpretable, and actionable insights**.  
-My expertise bridges **applied AI research** and **real-world deployment**, especially in **medical imaging**, **industrial inspection**, and **document analysis**.
+I’m a **Computer Vision Engineer** specializing in **Deep Learning and AI-driven image understanding**. My work bridges **research and production**, transforming visual data into **meaningful, actionable insights** across **medical imaging**, **industrial inspection**, and **document analysis**.
 
-- 🧬 Currently developing an **AI platform for dental bone loss prediction** (2D/3D medical imaging).
-- 🧠 3+ years of experience building **production-level ML systems** (YOLOv8, U-Net, DETR, ViT)
-- ⚙️ Focused on **robust and explainable AI** for imaging-based decision support
-- 🧩 Passionate about **bridging science and engineering** — turning research into usable tools
-- 🌍 Fluent in English & French, native Arabic speaker
+- 🦷 Developing an **AI platform for dental bone loss prediction** using 2D/3D imaging  
+- 💡 3+ years building **production-level ML systems** (YOLOv8, U-Net, DETR, ViT)  
+- ⚙️ Focused on **robust, interpretable, and deployable AI** for imaging  
+- 🌍 Fluent in English & French | Native Arabic  
 
 ---
 
-## 🧰 Core Technical Skills
+## 🧰 Technical Toolbox  
 
-| Domain          | Technologies |
-|-----------------|-------------|
-| **Deep Learning**   | PyTorch, TensorFlow, Keras, HuggingFace Transformers |
-| **Computer Vision** | OpenCV, YOLOv8, U-Net, DETR, Vision Transformers (ViT, Swin), NeRF |
-| **3D Vision**       | Camera calibration, Structure-from-Motion, Bundle Adjustment |
-| **Data Science**    | NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn |
-| **Development**     | Python, Bash, Git/GitHub, Linux, Docker |
-| **Medical Imaging** | CBCT, DICOM, PACS integration, segmentation & regression pipelines |
+| Domain | Technologies |
+|--------|--------------|
+| **Deep Learning** | PyTorch, TensorFlow, Keras, HuggingFace Transformers |
+| **Computer Vision** | OpenCV, YOLOv8, U-Net, DETR, ViT, Swin Transformer, NeRF |
+| **3D Vision** | Camera Calibration, SfM, Bundle Adjustment |
+| **Data Science** | NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn |
+| **Development** | Python, Bash, Git, Linux, Docker |
+| **Medical Imaging** | CBCT, DICOM, PACS, segmentation & regression pipelines |
 
 ---
 
-## 🚀 Highlighted Projects
+## 🚀 Featured Projects  
 
-### 🦷 [Marginal Bone Loss Detection Using Deep Learning (PyTorch)](https://github.com/martinbadrous/Marginal-Bone-Loss-Detection-Using-Deep-Learning-PyTorch)  
-A full PyTorch pipeline for **detecting and classifying marginal bone loss** in medical/dental radiographs.  
-Includes data preprocessing, transfer learning, model evaluation (AUC, F1, ROC), and explainability modules.
+### 🦷 [Marginal Bone Loss Detection (PyTorch)](https://github.com/martinbadrous/Marginal-Bone-Loss-Detection-Using-Deep-Learning-PyTorch)  
+AI pipeline for **detecting and classifying dental bone loss**.  
+Includes preprocessing, model training (ResNet, EfficientNet), evaluation, and explainability (Grad-CAM).  
+> 🔬 Contributing to open AI-assisted diagnostics in oral healthcare.
 
-> 🔬 *Part of a larger initiative to build open AI-assisted diagnostic tools for oral health.*
-
-### 📜 [Alto Parsing](https://github.com/martinbadrous/Alto_parsing)  
-A lightweight **OCR text and geometry extractor** from ALTO XML files.  
-Useful for **document layout analysis**, **OCR post-processing**, and **digital humanities** research.
-
-> 🧩 Converts ALTO XML to simple `.txt` outputs with bounding boxes or coordinates.
+### 📜 [ALTO Parsing](https://github.com/martinbadrous/Alto_parsing)  
+Efficient **OCR layout and text extractor** from ALTO XML.  
+> Converts XML outputs into structured text and coordinates for document analysis and OCR post-processing.
 
 ### 🤖 [TurtleBot3 Applications](https://github.com/martinbadrous/Turtlebot3_applications)  
-Collection of **ROS-based robotics applications** using the TurtleBot3 platform.  
-Focuses on **vision-based navigation**, **object detection**, and **autonomous behavior**.
+ROS-based projects integrating **vision and robotics** for autonomous navigation and perception.  
+> ⚙️ Real-world examples of computer vision driving robotic control.
 
-> ⚙️ Demonstrates integration of computer vision with robotic control systems under ROS.
-
-### 🧬 [Facial Recognition / Expression Classifier](https://github.com/martinbadrous/Facial-Recognition)  
-Modern PyTorch implementation of a **facial expression recognition** system using transfer learning and CNNs.  
-Includes complete training, evaluation, and deployment pipeline with reproducible results.
+### 😃 [Facial Expression Recognition](https://github.com/martinbadrous/Facial-Recognition)  
+End-to-end **expression recognition pipeline** using CNNs and transfer learning.  
+> 🧩 Reproducible training, evaluation, and deployment with PyTorch.
 
 ---
 
-## 📂 More Repositories
+## 📂 Other Notable Repositories  
 
-Here’s a quick overview of other open-source repositories I maintain:  
-- [YOLO-V5-Models-Comparison](https://github.com/martinbadrous/YOLO-V5-Models-Comparison) — benchmark of YOLOv5 variants  
-- [Semantic-Segmentation-COVID-19](https://github.com/martinbadrous/Semantic-Segmentation-COVID-19) — medical segmentation work  
-- [ROS_TurtleBot3](https://github.com/martinbadrous/ROS_TurtleBot3) — navigation/manipulation examples  
-- [ROS-Line-following-automatic-parking](https://github.com/martinbadrous/ROS-Line-following-automatic-parking) — autonomous robotics demos  
-- [microplastics-yolov5 / Microparticle-counting](https://github.com/martinbadrous/microplastics-yolov5) — industrial vision for microplastics detection
+- 🦷 [**Dental-Bone-Loss-Prediction**](https://github.com/martinbadrous/Marginal-Bone-Loss-Detection-Using-Deep-Learning-PyTorch) — Deep learning for medical/dental image diagnosis  
+- 🤖 [**TurtleBot3_Applications**](https://github.com/martinbadrous/Turtlebot3_applications) — Vision-based navigation & robotics experiments  
+- 🧩 [**Alto_Parsing**](https://github.com/martinbadrous/Alto_parsing) — OCR layout & text extraction from ALTO XML  
+- 🔬 [**Facial-Recognition**](https://github.com/martinbadrous/Facial-Recognition) — Facial expression recognition using CNNs  
+- ⚙️ [**microplastics-yolov5**](https://github.com/martinbadrous/microplastics-yolov5) — Industrial vision for microplastic detection  
 
-Feel free to browse my profile for the full list of projects.
-
----
-
-## 🎓 Education
-
-🎓 **M.Sc. in Computer Vision and Robotics (VIBOT)**  
-*Université de Bourgogne, France* — Graduated Top 4/20  
-> Focus: Deep Learning, Image Analysis, Robotics, and Visual Perception
-
-🎓 **B.Sc. in Mechatronics, Robotics, and Automation**  
-*Helwan University, Cairo, Egypt* — GPA: Very Good (81%)  
+➡️ _Explore all my open-source work on [GitHub →](https://github.com/martinbadrous)_
 
 ---
 
-## 📈 Stats & Activity
+## 🎓 Education  
+
+🎓 **M.Sc. Computer Vision & Robotics (VIBOT)** — *Université de Bourgogne, France*  
+> Graduated Top 4/20 | Focus: Deep Learning, Image Analysis, Robotics  
+
+🎓 **B.Sc. Mechatronics, Robotics, and Automation** — *Helwan University, Cairo, Egypt*  
+> GPA: Very Good (81%)
+
+---
+
+## 📈 Stats & Activity  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martinbadrous&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martinbadrous&layout=compact&theme=radical)
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Currently Exploring  
 
 - 🧩 Self-supervised learning for medical image analysis  
 - 🧠 Explainable AI for healthcare (Grad-CAM, SHAP)  
 - 🧬 Synthetic data generation (GANs, 3D rendering, augmentation)  
-- ⚙️ Optimizing model deployment pipelines for real-time inference  
+- ⚙️ Model deployment optimization for real-time inference  
 
 ---
 
-## 📫 Get in Touch
+## 📫 Get in Touch  
 
 - 📧 **Email:** martin.badrous@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/martinbadrous](https://linkedin.com/in/martinbadrous)  
@@ -109,5 +100,3 @@ Feel free to browse my profile for the full list of projects.
 
 > _"I build systems that see, understand, and learn — because vision is intelligence made visible."_  
 > — **Martin Badrous**
-
----
