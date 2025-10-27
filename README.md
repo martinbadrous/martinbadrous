@@ -11,7 +11,7 @@
 I'm a **Computer Vision Engineer specialized in Deep Learning**, passionate about transforming raw image data into **meaningful, interpretable, and actionable insights**.  
 My expertise bridges **applied AI research** and **real-world deployment**, especially in **medical imaging**, **industrial inspection**, and **document analysis**.
 
-- 🧬 Currently developing an **AI platform for dental bone loss prediction** (2D/3D medical imaging)
+- 🧬 Currently developing an **AI platform for dental bone loss prediction** (2D/3D medical imaging).
 - 🧠 3+ years of experience building **production-level ML systems** (YOLOv8, U-Net, DETR, ViT)
 - ⚙️ Focused on **robust and explainable AI** for imaging-based decision support
 - 🧩 Passionate about **bridging science and engineering** — turning research into usable tools
