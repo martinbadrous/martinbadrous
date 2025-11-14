@@ -1,102 +1,109 @@
+<div align="center">
+
 # 👋 Hi, I'm Martin Badrous  
 
-🎓 **Computer Vision & Deep Learning Engineer** | 🧠 **AI Researcher** | ⚙️ **Robotics & Image Analysis Enthusiast**  
-📍 Based in France | 🇪🇬 Egyptian Origin  
-📧 martin.badrous@gmail.com • 🔗 [LinkedIn](https://linkedin.com/in/martinbadrous) • 💻 [GitHub](https://github.com/martinbadrous) • 🤗 [HuggingFace](https://huggingface.co/martinbadrous)
+🎓 Computer Vision & Deep Learning Engineer  
+📍 Based in France · 🇪🇬 Egyptian Origin  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinbadrous)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martin.badrous@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martinbadrous)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=000000)](https://huggingface.co/martinbadrous)
+
+</div>
 
 ---
 
-## 🧭 About Me  
+## 💫 About Me
 
-I’m a **Computer Vision Engineer** specializing in **Deep Learning and AI-driven image understanding**. My work bridges **research and production**, transforming visual data into **meaningful, actionable insights** across **medical imaging**, **industrial inspection**, and **document analysis**.
+I’m a **Computer Vision & Deep Learning Engineer** working on **2D/3D imaging** problems, from **industrial & environmental inspection** to **medical/dental imaging** and **document analysis**.
 
-- 🦷 Developing an **AI platform for dental bone loss prediction** using 2D/3D imaging  
-- 💡 3+ years building **production-level ML systems** (YOLOv8, U-Net, DETR, ViT)  
-- ⚙️ Focused on **robust, interpretable, and deployable AI** for imaging  
-- 🌍 Fluent in English & French | Native Arabic  
-
----
-
-## 🧰 Technical Toolbox  
-
-| Domain | Technologies |
-|--------|--------------|
-| **Deep Learning** | PyTorch, TensorFlow, Keras, HuggingFace Transformers |
-| **Computer Vision** | OpenCV, YOLOv8, U-Net, DETR, ViT, Swin Transformer, NeRF |
-| **3D Vision** | Camera Calibration, SfM, Bundle Adjustment |
-| **Data Science** | NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn |
-| **Development** | Python, Bash, Git, Linux, Docker |
-| **Medical Imaging** | CBCT, DICOM, PACS, segmentation & regression pipelines |
+- 🧠 I build and deploy **end-to-end vision pipelines** (detection, segmentation, regression) with a focus on **reliability and latency** in real-world settings.  
+- 🦷 Currently exploring **AI for dental imaging**, combining classical vision, transformers, and 3D data.  
+- ⚙️ I care about **reproducible ML** (clean code, experiments you can rerun) and **tools that non-ML experts can actually use** (CLIs, simple UIs, clear reports).  
+- 🌍 I enjoy working in **interdisciplinary teams** with scientists, clinicians, and engineers.
 
 ---
 
-## 🚀 Featured Projects  
+## 🧰 Tech Stack
 
-### 🦷 [Marginal Bone Loss Detection (PyTorch)](https://github.com/martinbadrous/Marginal-Bone-Loss-Detection-Using-Deep-Learning-PyTorch)  
-AI pipeline for **detecting and classifying dental bone loss**.  
-Includes preprocessing, model training (ResNet, EfficientNet), evaluation, and explainability (Grad-CAM).  
-> 🔬 Contributing to open AI-assisted diagnostics in oral healthcare.
+### 💻 Languages & Dev
 
-### 📜 [ALTO Parsing](https://github.com/martinbadrous/Alto_parsing)  
-Efficient **OCR layout and text extractor** from ALTO XML.  
-> Converts XML outputs into structured text and coordinates for document analysis and OCR post-processing.
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/bash_script-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
-### 🤖 [TurtleBot3 Applications](https://github.com/martinbadrous/Turtlebot3_applications)  
-ROS-based projects integrating **vision and robotics** for autonomous navigation and perception.  
-> ⚙️ Real-world examples of computer vision driving robotic control.
+### 🧠 Machine Learning & Data
 
-### 😃 [Facial Expression Recognition](https://github.com/martinbadrous/Facial-Recognition)  
-End-to-end **expression recognition pipeline** using CNNs and transfer learning.  
-> 🧩 Reproducible training, evaluation, and deployment with PyTorch.
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=000000)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![mlflow](https://img.shields.io/badge/mlflow-d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=0000FF)
 
----
+### 👁️ Computer Vision & Robotics
 
-## 📂 Other Notable Repositories  
-
-- 🦷 [**Dental-Bone-Loss-Prediction**](https://github.com/martinbadrous/Marginal-Bone-Loss-Detection-Using-Deep-Learning-PyTorch) — Deep learning for medical/dental image diagnosis  
-- 🤖 [**TurtleBot3_Applications**](https://github.com/martinbadrous/Turtlebot3_applications) — Vision-based navigation & robotics experiments  
-- 🧩 [**Alto_Parsing**](https://github.com/martinbadrous/Alto_parsing) — OCR layout & text extraction from ALTO XML  
-- 🔬 [**Facial-Recognition**](https://github.com/martinbadrous/Facial-Recognition) — Facial expression recognition using CNNs  
-- ⚙️ [**microplastics-yolov5**](https://github.com/martinbadrous/microplastics-yolov5) — Industrial vision for microplastic detection  
-
-➡️ _Explore all my open-source work on [GitHub →](https://github.com/martinbadrous)_
+![OpenCV](https://img.shields.io/badge/OpenCV-ffffff.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-0A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
 ---
 
-## 🎓 Education  
+## 🚀 Featured Projects
 
-🎓 **M.Sc. Computer Vision & Robotics (VIBOT)** — *Université de Bourgogne, France*  
-> Graduated Top 4/20 | Focus: Deep Learning, Image Analysis, Robotics  
+- 🦷 **[Marginal Bone Loss Detection (PyTorch)](https://github.com/martinbadrous/Marginal-Bone-Loss-Detection-Using-Deep-Learning-PyTorch)**  
+  Deep learning pipeline for **dental bone loss analysis** with training, evaluation, and explainability.
 
-🎓 **B.Sc. Mechatronics, Robotics, and Automation** — *Helwan University, Cairo, Egypt*  
-> GPA: Very Good (81%)
+- 📜 **[ALTO Parsing](https://github.com/martinbadrous/Alto_parsing)**  
+  Tools for **OCR layout & text extraction** from ALTO XML for document analysis.
 
----
+- 🤖 **[TurtleBot3 Applications](https://github.com/martinbadrous/Turtlebot3_applications)**  
+  Vision + robotics experiments using **ROS** and **TurtleBot3**.
 
-## 📈 Stats & Activity  
+- 🙂 **[Facial Expression Recognition](https://github.com/martinbadrous/Facial-Recognition)**  
+  CNN-based **facial expression recognition** with a reproducible training pipeline.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martinbadrous&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martinbadrous&layout=compact&theme=radical)
-
----
-
-## 🌱 Currently Exploring  
-
-- 🧩 Self-supervised learning for medical image analysis  
-- 🧠 Explainable AI for healthcare (Grad-CAM, SHAP)  
-- 🧬 Synthetic data generation (GANs, 3D rendering, augmentation)  
-- ⚙️ Model deployment optimization for real-time inference  
+➡️ Explore more on my [GitHub profile →](https://github.com/martinbadrous)
 
 ---
 
-## 📫 Get in Touch  
+## 📊 GitHub Stats
 
-- 📧 **Email:** martin.badrous@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/martinbadrous](https://linkedin.com/in/martinbadrous)  
-- 🤗 **HuggingFace:** [huggingface.co/martinbadrous](https://huggingface.co/martinbadrous)  
-- 🌐 **GitHub:** [github.com/martinbadrous](https://github.com/martinbadrous)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martinbadrous&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=false&count_private=false)  
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=martinbadrous&theme=tokyonight&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martinbadrous&theme=tokyonight&hide_border=false&layout=compact)
+
+</div>
 
 ---
 
-> _"I build systems that see, understand, and learn — because vision is intelligence made visible."_  
-> — **Martin Badrous**
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=martinbadrous&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repos
+
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=martinbadrous&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=martinbadrous&icon=0&color=0)](https://visitcount.itsvg.in)
+
+> _"I build systems that see, understand, and learn — because vision is intelligence made visible."_
+
+</div>
