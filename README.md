@@ -58,9 +58,6 @@ I’m a **Computer Vision & Deep Learning Engineer** working on **2D/3D imaging*
 
 ## 🚀 Featured Projects
 
-- 🦷 **[Marginal Bone Loss Detection (PyTorch)](https://github.com/martinbadrous/Marginal-Bone-Loss-Detection-Using-Deep-Learning-PyTorch)**  
-  Deep learning pipeline for **dental bone loss analysis** with training, evaluation, and explainability.
-
 - 📜 **[ALTO Parsing](https://github.com/martinbadrous/Alto_parsing)**  
   Tools for **OCR layout & text extraction** from ALTO XML for document analysis.
 
