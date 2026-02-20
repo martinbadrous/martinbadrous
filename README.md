@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Hi, I'm Martin Badrous  
+# 👋 Hi, I'm Martin Badrous
 
 🎓 Computer Vision & Deep Learning Engineer  
-📍 Based in France · 🇪🇬 Egyptian Origin  
+📍 Based in France · 🇪🇬 Egyptian Origin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinbadrous)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martin.badrous@gmail.com)
@@ -16,12 +16,13 @@
 
 ## 💫 About Me
 
-I’m a **Computer Vision & Deep Learning Engineer** working on **2D/3D imaging** problems, from **industrial & environmental inspection** to **medical/dental imaging** and **document analysis**.
+I'm a **Computer Vision & Deep Learning Engineer** with 3+ years of experience building **end-to-end vision pipelines** across industrial, environmental, and heritage imaging domains.
 
-- 🧠 I build and deploy **end-to-end vision pipelines** (detection, segmentation, regression) with a focus on **reliability and latency** in real-world settings.  
-- 🦷 Currently exploring **AI for dental imaging**, combining classical vision, transformers, and 3D data.  
-- ⚙️ I care about **reproducible ML** (clean code, experiments you can rerun) and **tools that non-ML experts can actually use** (CLIs, simple UIs, clear reports).  
-- 🌍 I enjoy working in **interdisciplinary teams** with scientists, clinicians, and engineers.
+- 🧠 I design and deploy **detection, segmentation, and classification systems** (YOLOv8, U-Net, ViT) with a focus on **reliability and performance in production**.
+- 📜 I've worked on challenging real-world datasets — from **16th–18th century printed documents** to **industrial microplastics** and **medical imaging**.
+- 🤖 I enjoy combining **classical computer vision** with **deep learning**, and have hands-on experience in **3D vision**, **multi-camera calibration**, and **robotic perception**.
+- ⚙️ I care about **reproducible ML**: clean pipelines, rerunnable experiments, and tools that non-ML experts can actually use.
+- 🌍 I thrive in **interdisciplinary teams** alongside scientists, clinicians, and engineers.
 
 ---
 
@@ -58,14 +59,26 @@ I’m a **Computer Vision & Deep Learning Engineer** working on **2D/3D imaging*
 
 ## 🚀 Featured Projects
 
-- 📜 **[ALTO Parsing](https://github.com/martinbadrous/Alto_parsing)**  
-  Tools for **OCR layout & text extraction** from ALTO XML for document analysis.
+- 🏛️ **[Arkindex Historic Ornaments Detector — YOLOv8](https://github.com/martinbadrous/Arkindex-Historic-Ornaments-Detector-YOLOv8)**  
+  YOLOv8 pipeline achieving **95% mAP** for detecting graphic elements in 16th–18th century printed documents (TypoRef project, PolyTech Tours).
 
-- 🤖 **[TurtleBot3 Applications](https://github.com/martinbadrous/Turtlebot3_applications)**  
-  Vision + robotics experiments using **ROS** and **TurtleBot3**.
+- 🔬 **[Microparticle Detection](https://github.com/martinbadrous/Microparticle-Detection)**  
+  Deep Learning pipeline for **automated industrial microplastics detection and classification**, achieving >90% accuracy in production (IZONICS).
+
+- 🫁 **[Semantic Segmentation — COVID-19](https://github.com/martinbadrous/Semantic-Segmentation-COVID-19)**  
+  U-Net based **semantic segmentation of COVID-19 lung CT scans**, exploring medical image analysis with deep learning.
+
+- 🤖 **[ROS Line Following & Automatic Parking](https://github.com/martinbadrous/ROS-Line-following-automatic-parking)**  
+  Visual servoing system enabling a **TurtleBot3 to follow lines and auto-park** in Gazebo simulation using ROS.
+
+- 📜 **[ALTO Parsing](https://github.com/martinbadrous/Alto_parsing)**  
+  Tools for **OCR layout and text extraction** from ALTO XML files, built for historical document analysis workflows.
 
 - 🙂 **[Facial Expression Recognition](https://github.com/martinbadrous/Facial-Recognition)**  
-  CNN-based **facial expression recognition** with a reproducible training pipeline.
+  CNN-based **facial expression classifier** with a clean, reproducible training pipeline.
+
+- 🐢 **[TurtleBot3 Applications](https://github.com/martinbadrous/Turtlebot3_applications)**  
+  Vision and robotics experiments combining **ROS, perception, and autonomous navigation** with TurtleBot3.
 
 ➡️ Explore more on my [GitHub profile →](https://github.com/martinbadrous)
 
